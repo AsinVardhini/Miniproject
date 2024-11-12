@@ -1,10 +1,11 @@
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
-
+Iot Enabled Self-operating Therapy for Immobile Patient Using Arm Gripper
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The abstract discusses a concept of an IoT-enabled smart hand gripper that helps patients, such as paralytic patients, in performing hand movements associated with daily activities. In paralysis patients, most common effect is loss of motor functions; patients will often manifest an inability to pick, hold, or manipulate any object, and afterwards rely further on assistance from others, resulting in a loss of independence.
+
+This novel gripper combines the functionality of a typical hand gripper with that of an IoT device so its grip force and information can be wirelessly shared with other devices. It has a system of force reproduction where electrodes combined with sensors measure the grip strength of the user, then adjusts the power level of the gripper based on that.
+
+The device allows patients to be independent in performing the activities, thus improving their quality of life. It can be worn during surgery, and real-time feedback is provided to users and caregivers. It is scalable and cost-effective in order that the device may be used by a large number of paralysis and related disorder patients for more independence in daily life.
 
 ## Features
 <!--List the features of the project as shown below-->
